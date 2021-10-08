@@ -12,8 +12,8 @@ module.exports = {
   author: 'Mr阿果',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: '这里是是阿果的教育博客',
+  socialImageTitle: '阿果',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
